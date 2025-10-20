@@ -1,6 +1,6 @@
 **Tarea:**
 
-Para cada enunciado, crear un diagrama de flujo y su pseudocódigo asociado.
+Para cada enunciado, crear un diagrama de flujo `en papel` y su pseudocódigo asociado.
 
 
 **Enunciados de los programas:**
