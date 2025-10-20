@@ -4,10 +4,10 @@
 
 ```mermaid
 graph TD
-    A[Inicio] --> B{Ingresar n};
+    A[Inicio] --> B[Ingresar n];
     B --> C{n >= 10?};
     C -- Yes --> D[suma = 0];
-    D --> E{i = 2};
+    D --> E[i = 2];
     E --> F{i <= n?};
     F -- Yes --> G{i es par?};
     G -- Yes --> H[suma = suma + i];
