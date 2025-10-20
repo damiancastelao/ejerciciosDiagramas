@@ -15,7 +15,6 @@ graph TD
     H --> I[i = i + 1];
     I --> D;
     D -- No --> G[Fin];
-    G --> End[Fin];
 ```
 
 *   **Pseudocódigo:**
