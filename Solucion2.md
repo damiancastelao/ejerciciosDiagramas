@@ -5,7 +5,7 @@
 
 ```mermaid
 graph TD
-    A[Inicio] --> B{Ingresar x, l};
+    A[Inicio] --> B[Ingresar x, l];
     B --> C[i = 1];
     C --> D{i <= l?};
     D -- Yes --> E[producto = x * i];
