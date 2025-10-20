@@ -1,6 +1,6 @@
 **Tarea**
 
-[*english version*](./Readme_en.md)
+[*english version*](./Readme.en.md)
 
 Para cada enunciado, crear un diagrama de flujo `en papel` y su pseudocódigo asociado.
 
