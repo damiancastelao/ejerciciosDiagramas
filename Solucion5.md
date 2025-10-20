@@ -7,7 +7,7 @@
 ```mermaid
 graph TD
     A[Inicio] --> B[suma = 0, contador = 0];
-    B --> C{Ingresar nota};
+    B --> C[Ingresar nota];
     C --> D{nota < 0?};
     D -- Yes --> E{contador >= 5?};
     E -- Yes --> F[promedio = suma / contador];
