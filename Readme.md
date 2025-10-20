@@ -10,15 +10,18 @@ Para cada enunciado, crear un diagrama de flujo y su pseudocódigo asociado.
     - Si `n` es menor que 10, debe imprimir un mensaje indicando que el número es demasiado pequeño.
    
 [Solucion 1](./Solucion1.md) 
+
 2. **Tabla de multiplicar con límite:** Crea un programa que solicite al usuario un número entero `x` (la base de la tabla) y un número entero `l` (el límite)
     - El programa deberá mostrar la tabla de multiplicar de `x` desde 1 hasta `l`, pero deteniéndose si el producto excede 50.
    
 [Solucion 2](./Solucion2.md)
+
 3. **Adivina el número (con pistas):** Diseña un juego donde la computadora genera un número aleatorio entre 1 y 100. 
    - El usuario tiene que adivinar el número. Después de cada intento, el programa debe indicar si el número ingresado es mayor o menor que el número secreto.
    - El juego termina cuando el usuario adivina el número o después de 7 intentos.
    
 [Solucion 3](./Solucion3.md) 
+
 4. **Contador de vocales:** Escribe un programa que pida al usuario que ingrese una frase.
    - El programa debe contar el número de vocales (a, e, i, o, u) que contiene la frase (tanto mayúsculas como minúsculas).
 
