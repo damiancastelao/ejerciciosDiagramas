@@ -7,7 +7,7 @@ graph TD
     A[Inicio] --> B[Generar número aleatorio secreto];
     B --> C[intentos = 0];
     C --> D{intentos < 7?};
-    D -- Yes --> E{Ingresar intento};
+    D -- Yes --> E[Ingresar intento];
     E --> F{intento == secreto?};
     F -- Yes --> G[Imprimir 'Adivinaste!'];
     G --> I[Fin];
