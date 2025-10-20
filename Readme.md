@@ -34,11 +34,12 @@ Para cada enunciado, crear un diagrama de flujo `en papel` y su pseudocódigo as
 
 [Solucion 5](./Solucion5.md)
 
+---
 
 **Consejos adicionales**
 
-*   **Intentar:**  No se limiten a copiar las soluciones. Intentar hacerlo sin mirar las soluciones ni ayuda de IA
-*   **Dividan y vencerán:** Si un problema es parece demasiado complicado, intentar dividirlo en problemas más pequeños y manejables.
+*   **Intentar:** No se limiten a copiar las soluciones. Intentar hacerlo sin mirar las soluciones ni ayuda de IA
+*   **Dividan y vencerán:** Si un problema os parece demasiado complicado, intentar dividirlo en problemas más pequeños y manejables.
 *   **Practicar:** La programación es una habilidad que se desarrolla con la práctica. Cuanto más se practique, mejor desarrolladores serán.
 
 
