@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD
-    A[Inicio] --> B[Ingresar n];
+    A([Inicio]) --> B[/Ingresar n/];
     B --> C{n >= 10?};
     C -- Yes --> D[suma = 0];
     D --> E[i = 2];
@@ -14,9 +14,9 @@ graph TD
     H --> I[i = i + 2];
     G -- No --> I[i = i + 2];
     I --> F;
-    F -- No --> J[Imprimir suma];
-    C -- No --> K[Imprimir Número muy pequeño];
-    J --> L[Fin];
+    F -- No --> J[/suma/];
+    C -- No --> K[/Número muy pequeño/];
+    J --> L([Fin]);
     K --> L;
 ```
 
