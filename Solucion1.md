@@ -39,7 +39,7 @@ INICIO
 FIN
 ```
 
-*   **Código C++:**
+*   **Código C++ (sin comprobación de si es par ya que es redundante):**
 
 ```cpp
 #include <iostream>
