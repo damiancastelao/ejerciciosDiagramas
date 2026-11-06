@@ -5,16 +5,16 @@
 
 ```mermaid
 graph TD
-    A[Inicio] --> B[Ingresar x, l];
+    A([Inicio]) --> B[/Ingresar x, l/];
     B --> C[i = 1];
     C --> D{i <= l?};
     D -- Yes --> E[producto = x * i];
     E --> F{producto > 50?};
     F -- Yes --> G[Ir a Fin];
-    F -- No --> H[Imprimir x * i];
+    F -- No --> H[/Imprimir x * i/];
     H --> I[i = i + 1];
     I --> D;
-    D -- No --> G[Fin];
+    D -- No --> G([Fin]);
 ```
 
 *   **Pseudocódigo:**
