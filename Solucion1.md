@@ -64,3 +64,17 @@ int main() {
   return 0;
 }
 ```
+
+**Código en Python:**
+
+```
+n = int(input("escribe un numero"))
+i = 2
+suma = 0
+if n >= 10:
+    while i <= n:
+        suma += i
+        i = i + 2
+
+    print(suma)
+```
