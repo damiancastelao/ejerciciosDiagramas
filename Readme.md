@@ -2,7 +2,7 @@
 
 [*english version*](./Readme.en.md)
 
-Para cada enunciado, crear un diagrama de flujo `en papel` y su pseudocódigo asociado.
+Para cada enunciado, crear un diagrama de flujo `en papel` y su [pseudocódigo](https://es.wikipedia.org/wiki/Pseudoc%C3%B3digo) asociado.
 
 
 **Enunciados de los programas:**
